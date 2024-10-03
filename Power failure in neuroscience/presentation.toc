@@ -1,0 +1,8 @@
+\beamer@sectionintoc {1}{Introduction: What makes studies unreproducible}{4}{0}{1}
+\beamer@sectionintoc {2}{How low power affects study reliability without other biases}{11}{0}{2}
+\beamer@sectionintoc {3}{How low power affects study reliability \textbf {with other biases}}{18}{0}{3}
+\beamer@sectionintoc {4}{Method}{23}{0}{4}
+\beamer@sectionintoc {5}{Results}{25}{0}{5}
+\beamer@sectionintoc {6}{Discussions}{28}{0}{6}
+\beamer@sectionintoc {7}{Conclusions and future directions}{33}{0}{7}
+\beamer@sectionintoc {8}{Take home messages}{35}{0}{8}
